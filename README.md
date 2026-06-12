@@ -29,6 +29,7 @@ ChatGPT is an AI chatbot developed by OpenAI, based on large language models lik
 - **[FlowGPT](https://flowgpt.com/)** – Discover and share top ChatGPT prompts from the community.
 - **[PromptBase](https://promptbase.com/)** – Marketplace for buying and selling effective prompts.
 - **[PromptHero](https://prompthero.com/)** – Prompts for ChatGPT, Midjourney, and more.
+- **[CreatorSkills](https://creatorskills.co)** – Marketplace of 30+ downloadable AI skills for content creators — YouTube scripting, sponsorship analysis, and audience growth.
 
 ## Browser Extensions
 
